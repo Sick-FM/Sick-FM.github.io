@@ -7,16 +7,7 @@ versions:
   - "1.15"
 categories:
   - "survival"
-staff:
-  - Amministratore:
-    - ""
-    - ""
-  - Moderatore:
-    - ""
-    - ""
-  - Builder:
-    - ""
-    - ""
+staff: ""
 www: "http://utopialand.1msite.eu/"
 forum: "http://utopialand.1msite.eu/"
 telegram: "https://t.me/utopialandcommunity/"
