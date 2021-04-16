@@ -1,49 +1,42 @@
 ---
-name: "SlimeCraft"
-url: "slimecraft"
-discord_user: "000000000000000000000"
+name: "UtopiaLand"
+url: "utopialand"
+discord_user: "688337714533105665"
 hidden: false
 versions:
-  - "1.10"
-  - "1.11"
-  - "1.12"
+- "1.15"
 categories:
-  - "factions"
-  - "vanilla"
-  - "pvp"
+- "survival"
+- "pvp"
 staff:
-  - Amministratore:
-    - "4c6d0505a27042579503198d3faeecf7"
-    - "451033b42141482fbc5177a55548857b"
-  - Moderatore:
-    - "c2e1c50d13af46e6868a8a589af46df4"
-    - "74affc11b3954035ae6b9b7495439d48"
-  - Builder:
-    - "ece235b1fbb549929a7c98cdd2a85e3b"
-    - "099c51252ebb46e0a540954f20b7c568"
-www: "https://www.slimecraft.io"
-forum: "https://forum.slimecraft.io"
-telegram: "https://t.me/joinchat/Xv37wTF"
-discord: "https://discord.gg/WPz5F2"
-twitter: "twitter_profile"
-instagram: "instagram_profile"
-teamspeak: "ts.slimecraft.io"
-mumble: "mumble.slimecraft.io"
-query_port: 25565
+- Amministratore:
+  - ""
+- Moderatore:
+  - ""
+- Builder:
+  - ""
+www: "https://utopialand.1msite.eu"
+forum: ""
+telegram: "https://t.me/utopialandcommunity"
+discord: "https://discord.gg/j3B8mnAsK3"
+twitter: ""
+instagram: "utopia_land.official"
+teamspeak: ""
+mumble: ""
+query_port: 20917
 theme_color: "#2173c3"
 ---
-Descrizione del server in formato Markdown.
+Se ami il Survival, corri nel nostro server! Ti aspettano 10 Ranks esclusivi con 10 kits unici, uno shop vasto, un menu con diverse funzioni, dei pet per aiutarvi nella vostra avventura, dei boss leggendari da raidare, delle crates da aprire con le key e tanto altro da scoprire! {:.text-center}
+{:.orange--text}
+{:.pb-2}
 
-La descrizione deve essere completa fin
-da subito o non verrà accettata.
+## [mc.utopialand.ga]() {:.yellow--text}
+{:.orange .darken-2}
+{:.text-center}
+{:.pt-3 .pb-3}
+{:.mb-0}
 
-Prova il nostro sandbox editor per
-lavorare sulla descrizione ed avere
-un'anteprima in tempo reale.
+![Server logo](https://i.imgur.com/aPxmHHQ.png)
 
-minecraft-italia.it/stuff/markdown-editor
-
-#### Presentazione
-Un server bellissimo. Collegati ora!
-
-![Server logo](https://i.imgur.com/JhZAZIV.jpg)
+### Ti aspettiamo! {:.text-center}
+Corri ora su [mc.utopialand.ga](http://utopialand.1msite.eu/)! Se vuoi puoi anche scaricare la [nostra Texture](https://mega.nz/file/ItdFmCwR#rb3KBvDrEXY12Vm4-K3t4C8zERbiOtlWTyZPgze7ABE) personalizzata!
