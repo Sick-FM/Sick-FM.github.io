@@ -3,6 +3,7 @@ name: "UtopiaLand"
 url: "utopialand"
 discord_user: "688337714533105665"
 hidden: false
+only-premium: false
 versions:
 - "1.15"
 categories:
