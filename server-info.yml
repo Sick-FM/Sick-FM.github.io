@@ -8,21 +8,10 @@ versions:
 categories:
   - "survival"
   - "pvp"
-staff:
-  - Amministratore:
-    - ""
-  - Moderatore:
-    - ""
-  - Builder:
-    - ""
 www: "https://utopialand.1msite.eu"
-forum: ""
 telegram: "https://t.me/utopialandcommunity"
 discord: "https://discord.gg/j3B8mnAsK3"
-twitter: ""
 instagram: "utopia_land.official"
-teamspeak: ""
-mumble: ""
 query_port: 20917
 theme_color: "#2173c3"
 ---
